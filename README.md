@@ -1,2 +1,2 @@
 # text-mining-analysis
-operations performed on unbalanced data sets
+operations performed on text
